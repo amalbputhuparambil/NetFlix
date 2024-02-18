@@ -1,0 +1,28 @@
+.navbar{
+    position: relative;
+    top: 0;
+    width: 97%;
+    height: 30px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(2, 2, 2);
+
+}
+.logo{
+    position: absolute;
+    left: 20px;
+    width: 80px;
+
+}
+.avatar{
+    position: absolute;
+    right: 20px;
+    width: 30px;
+
+}
+.items{
+    position: absolute;
+    color: aliceblue;
+   
+}   
